@@ -12,7 +12,7 @@
  File Encoding         : 65001
 
  Date: 18/07/2020 12:15:30
-*/ 
+*/
 
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
